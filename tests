@@ -34,7 +34,7 @@ elseif game.PlaceId == 301549746 then --cbro
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/cbro",true))()
 elseif game.PlaceId == 12177325772 then --superleague
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Soccer5/main/SuperLeague"))()
-elseif game.PlaceId == 14236123211 then --punchsimulator
+elseif game.PlaceId == 14236123211 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bthng/BatuhanG-Mobil-Hub/main/Clicker%20Fighting%20Simulator", true))()
 end
 else
