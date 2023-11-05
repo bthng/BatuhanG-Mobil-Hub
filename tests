@@ -1,43 +1,41 @@
 if game.PlaceId == 8908228901 then -- Sharkbite 2
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Shark"))()	
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Shark"))()    
 elseif game.PlaceId == 11874473440 then -- car Factory Tycoon
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Car"))()	
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Car"))()    
 elseif game.PlaceId == 10048079179 then -- Fat Simulator
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Fat"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Fat"))()
 elseif game.PlaceId == 8540346411 then -- Rebirth Champions X
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/RCX"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/RCX"))()
 elseif game.PlaceId == 11701792069 then -- Snow Plow Simulator
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Snow"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Snow"))()
 elseif game.PlaceId == 6284583030 then -- PSX
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/PSX"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/PSX"))()
 elseif game.PlaceId ==  142823291 then -- MM2
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/MM2"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/MM2"))()
 elseif game.PlaceId ==  920587237 then -- Adopt Me
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Adopt%20Me"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Adopt%20Me"))()
 elseif game.PlaceId ==  6516141723 then -- Doors
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Doors"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Doors"))()
 elseif game.PlaceId ==  286090429 then -- Arsenal
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Arsenal"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Arsenal"))()
 elseif game.PlaceId ==  537413528 then -- Build A Boat
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/build"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/build"))()
 elseif game.PlaceId == 11767933308 then -- Smash Grab
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/sma"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/sma"))()
 elseif game.PlaceId == 1537690962 then -- Bee Swarm
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/bee"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/bee"))()
 elseif game.PlaceId == 3527629287 then -- Big Paintball
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/bgpaintbal"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/bgpaintbal"))()
 elseif game.PlaceId == 2753915549 then -- Blox Fruits
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Blox"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/Blox"))()
 elseif game.PlaceId == 10171072079 then -- Operations Siege 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/Siege"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/Siege"))()
 elseif game.PlaceId == 301549746 then --cbro
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/cbro",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/roblox/main/cbro",true))()
 elseif game.PlaceId == 12177325772 then --superleague
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Soccer5/main/SuperLeague"))()
-elseif game.PlaceId == 14236123211 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/bthng/BatuhanG-Mobil-Hub/main/Clicker%20Fighting%20Simulator", true))()
-end
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/Soccer5/main/SuperLeague"))()
+elseif game.PlaceId == 14236123211 then --punchsimulator
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bthng/BatuhanG-Mobil-Hub/main/Clicker%20Fighting%20Simulator", true))()
 else
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/u", true))()
-
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/YtBatuhanG/BatuhanGHub/main/u", true))()
 end
